@@ -1,0 +1,6 @@
+<script>start("/Users/kabilesh/Desktop/js-yt-tutorial/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1739004630,"08/02/2025, 14:20:30");</script>
+<script>addRow("paper-emoji.png","paper-emoji.png",0,6577,"6.4 kB",1739002258,"08/02/2025, 13:40:58");</script>
+<script>addRow("rock-emoji.png","rock-emoji.png",0,6799,"6.6 kB",1739002176,"08/02/2025, 13:39:36");</script>
+<script>addRow("scissors-emoji.png","scissors-emoji.png",0,7458,"7.3 kB",1739002266,"08/02/2025, 13:41:06");</script>
