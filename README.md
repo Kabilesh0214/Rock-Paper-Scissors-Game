@@ -26,11 +26,6 @@ Click "Auto Play" to let the game play automatically.
 
 Click "Reset Score" to clear the stored scores.
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/rock-paper-scissors.git
 
 Open the index.html file in a web browser.
 
